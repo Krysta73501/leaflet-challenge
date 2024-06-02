@@ -1,5 +1,3 @@
-# leaflet-challenge
-
 # Earthquake Data Visualization
 
 # Introduction
